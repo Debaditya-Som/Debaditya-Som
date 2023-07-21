@@ -1,5 +1,5 @@
 ### Hi there , I,m Debaditya 👋
-![](https://drive.google.com/file/d/1BI9GyUEiA7BAPLCrcGbdA3ZeF1U9rz20/view?usp=drive_link)
+![](https://raw.githubusercontent.com/Debaditya-Som/Debaditya-Som/main/Devops.png)
 
 -A DevOps and Open Source enthusiast
 

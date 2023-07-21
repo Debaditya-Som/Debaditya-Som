@@ -1,7 +1,7 @@
 ### Hi there , I,m Debaditya 👋
 ![](https://raw.githubusercontent.com/Debaditya-Som/Debaditya-Som/main/Devops.png)
 
-- I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.
+ I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.
 
 
 - 🌱 I’m currently learning DevOps

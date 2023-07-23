@@ -8,4 +8,9 @@
 - 👯 I’m looking to collaborate on Open Source Contributions
 - 💬 Ask me about .. Coding , Football & Open Source 
 - 📫 How to reach me: debadityasom04@gmail.com
--->
+
+  <h3>Stats:</h3>
+<p>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=debaditya-som&show_icons=true&rank_icon=github&theme=radical&card_width=320" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debaditya-som&show_icons=true&theme=radical&locale=en&layout=compact" alt="Debaditya som" /> 
+</p>

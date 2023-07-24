@@ -1,5 +1,6 @@
-![Devops](https://github.com/Debaditya-Som/Debaditya-Som/assets/121785700/30219086-4351-4614-adca-7bb78ed19ed2)### Hi there , I,m Debaditya 👋
-![Devops](https://github.com/Debaditya-Som/Debaditya-Som/assets/121785700/5e751e95-440f-40d7-ad1e-17b566143815)
+![Devops](https://github.com/Debaditya-Som/Debaditya-Som/assets/121785700/30219086-4351-4614-adca-7bb78ed19ed2)
+## Hi there , I,m Debaditya 👋
+
 
 
 

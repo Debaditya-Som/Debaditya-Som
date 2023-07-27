@@ -12,3 +12,4 @@
 - 👯 I’m looking to collaborate on Open Source Contributions
 - 💬 Ask me about .. Coding , Football & Open Source 
 - 📫 How to reach me: debadityasom04@gmail.com
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=debaditya-som&show_icons=true&rank_icon=github&theme=radical&card_width=320" />

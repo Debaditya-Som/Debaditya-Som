@@ -13,14 +13,12 @@
 - 💬 Ask me about .. Coding , Football & Open Source 
 - 📫 How to reach me: debadityasom04@gmail.com
 
-GitHub Stats: 
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=debaditya-som&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" />
-
-Top Languages Used:
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debaditya-som&show_icons=true&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&order=2&card_width=320" height="200" alt="languages graph"  />
-
+ 
+ ### GitHub Stats:
+ 
+<div align="center"> 
+<img height=200  src="https://github-readme-stats.vercel.app/api?username=debaditya-som&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" />
+</div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=debaditya-som&locale=en&mode=daily&theme=highcontras&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=debaditya-som&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>

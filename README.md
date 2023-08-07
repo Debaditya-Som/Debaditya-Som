@@ -4,8 +4,7 @@
 
 
 
-
- <center> I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.</center>
+ I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.
 
 
 - 🌱 I’m currently learning DevOps and WebDev

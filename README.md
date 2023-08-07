@@ -18,4 +18,5 @@ GitHub Stats:
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=debaditya-som&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" />
 
 Top Languages Used:
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=debaditya-som&show_icons=true&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&order=2&card_width=320" height="200" alt="languages graph"  />
+
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=debaditya-som&show_icons=true&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=highcontrast&order=2&card_width=320" height="200" alt="languages graph"  />

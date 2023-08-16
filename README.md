@@ -2,14 +2,11 @@
 ## Hi there , I,m Debaditya 👋
 
 
-
-
  I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.
- I'm currently the GeeksforGeeks Campus Ambassador at Academy Of Technology 
- 
 
 
 - 🌱 I’m currently learning DevOps and WebDev
+- 🎓 I'm currently the  GeeksforGeeks Campus Ambassador at Academy Of Technology
 - 👯 I’m looking to collaborate on Open Source Contributions
 - 💬 Ask me about .. Coding , Football & Open Source 
 - 📫 How to reach me: debadityasom04@gmail.com

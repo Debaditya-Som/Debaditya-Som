@@ -5,9 +5,10 @@
  I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.
 
 
-- 🌱 I’m currently learning DevOps and WebDev
-- 🎓 I'm currently the  GeeksforGeeks Campus Ambassador at Academy Of Technology
-- 👯 I’m looking to collaborate on Open Source Contributions
+- 🌱 Learning DevOps and Cloud Computing
+- 🎓 Currently the GeeksforGeeks Campus Ambassador at Academy Of Technology
+- 🎓 Cloud Associate at Google Developer Student Clubs AOT
+- 👯 Looking to collaborate on Open Source Contributions
 - 💬 Ask me about .. Coding , Football & Open Source 
 - 📫 How to reach me: debadityasom04@gmail.com
 

@@ -2,12 +2,11 @@
 ## 👋👋 Hi there , I,m Debaditya 👋👋
 
 
-
- I'm a DevOps and Open Source enthusiast. I am passionate about Open Soure Contribution and Coding.
+ I'm a DevOps and cloud computing enthusiast. I am passionate about Open Soure Contribution and Coding.
 
 
 - 🌱 Learning DevOps and Cloud Computing
-- 🎓 Currently the GeeksforGeeks Campus Ambassador at Academy Of Technology
+- 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology
 - 🎓 Cloud Associate at Google Developer Student Clubs AOT
 - 👯 Looking to collaborate on Open Source Contributions
 - 💬 Ask me about .. Coding , Football & Open Source 

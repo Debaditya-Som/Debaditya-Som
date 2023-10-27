@@ -5,11 +5,12 @@
 
 
 - 🌱 Learning DevOps and Cloud Computing
-- 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology
+- 🎓 Alpha Microsoft Learn Students Ambassador
+- 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology 
 - 🎓 Cloud Associate at Google Developer Student Clubs AOT
 - 🎓 Member of Core as well as Tech Team and Marketing Team at Resourcio Community
 - 👯 Looking to collaborate on Open Source Contributions
-- 💬 Ask me about .. Coding , Football & Open Source  
+- 💬 Ask me about .. Coding, Football & Open Source  
 - 📫 How to reach me: debadityasom04@gmail.com
  
  ### GitHub Stats:

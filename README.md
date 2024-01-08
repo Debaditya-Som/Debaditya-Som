@@ -5,9 +5,9 @@
 
 
 - 🌱 Learning DevOps and Cloud Computing
-- 🎓 Alpha Microsoft Learn Students Ambassador
-- 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology 
+- 🎓 Beta Microsoft Learn Students Ambassador
 - 🎓 Cloud Associate at Google Developer Student Clubs AOT 
+- 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology 
 - 🎓 Member of Core as well as Tech Team and Marketing Team at Resourcio Community
 - 👯 Looking to collaborate on Open Source Contributions
 - 💬 Ask me about .. Coding, Football & Open Source  
@@ -21,4 +21,8 @@
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=debaditya-som&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<div>
+ <img src="https://github-profile-trophy.vercel.app/?username=debaditya-som&theme=dark_lover&column=3&margin-w=20&margin-h=15">
+</div>
 </div>

@@ -1,4 +1,6 @@
-![Devops](https://github.com/Debaditya-Som/Debaditya-Som/assets/121785700/30219086-4351-4614-adca-7bb78ed19ed2)
+![Devops (1)](https://github.com/user-attachments/assets/4ac76afc-0fcd-4d12-9f75-5be25e971b7f)
+
+
 ## 👋 Hi there , I,m Debaditya 👋
 
  I'm a DevOps and cloud computing enthusiast, passionate about coding and project development.

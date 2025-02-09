@@ -1,16 +1,16 @@
 ![Devops](https://github.com/Debaditya-Som/Debaditya-Som/assets/121785700/30219086-4351-4614-adca-7bb78ed19ed2)
 ## 👋 Hi there , I,m Debaditya 👋
 
- I'm a DevOps and cloud computing enthusiast, passionate about Open Soure Contribution and Coding.
+ I'm a DevOps and cloud computing enthusiast, passionate about coding and project development.
 
 
-- 🌱 Learning DevOps and Cloud Computing
+- 🌱 Learning DevOps and Machine Learning
 - 🎓 Beta Microsoft Learn Students Ambassador
 - 🎓 Cloud Associate at Google Developer Student Clubs AOT 
 - 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology 
 - 🎓 Member of Core as well as Tech Team and Marketing Team at Resourcio Community
-- 👯 Looking to collaborate on Open Source Contributions
-- 💬 Ask me about .. Coding, Football & Open Source  
+- 👯 Looking to collaborate on Projects
+- 💬 Ask me about .. Coding & Football   
 - 📫 How to reach me: debadityasom04@gmail.com
  
  ### GitHub Stats:

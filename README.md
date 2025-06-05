@@ -8,8 +8,8 @@
 
 - 🌱 Learning Machine Learning and DevOps
 - 🎓 Beta Microsoft Learn Students Ambassador
-- 🎓 Cloud Associate at Google Developer Student Clubs AOT 
-- 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology 
+- 🎓 Ex-Cloud Associate at Google Developer Student Clubs AOT 
+- 🎓 Ex-GeeksforGeeks Campus Ambassador at Academy Of Technology 
 - 👯 Looking to collaborate on Projects
 - 💬 Ask me about .. Coding & Football   
 - 📫 How to reach me: debadityasom04@gmail.com
@@ -22,8 +22,4 @@
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=debaditya-som&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-<div>
- <img src="https://github-profile-trophy.vercel.app/?username=debaditya-som&theme=dark_lover&column=3&margin-w=20&margin-h=15">
-</div>
 </div>

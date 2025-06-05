@@ -6,11 +6,10 @@
  I'm a DevOps and cloud computing enthusiast, passionate about coding and project development.
 
 
-- 🌱 Learning DevOps and Machine Learning
+- 🌱 Learning Machine Learning and DevOps
 - 🎓 Beta Microsoft Learn Students Ambassador
 - 🎓 Cloud Associate at Google Developer Student Clubs AOT 
 - 🎓 GeeksforGeeks Campus Ambassador at Academy Of Technology 
-- 🎓 Member of Core as well as Tech Team and Marketing Team at Resourcio Community
 - 👯 Looking to collaborate on Projects
 - 💬 Ask me about .. Coding & Football   
 - 📫 How to reach me: debadityasom04@gmail.com

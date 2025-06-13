@@ -17,9 +17,9 @@
  ### GitHub Stats:
  
 <div align="center"> 
- 
 <img height=200  src="https://github-readme-stats.vercel.app/api?username=debaditya-som&show_icons=true&rank_icon=github&theme=highcontrast&card_width=320" />
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=debaditya-som&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=debaditya-som&label=Profile%20views&color=0e75b6&style=flat" alt="Debaditya Som" /> </p>
